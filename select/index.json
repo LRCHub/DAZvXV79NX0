@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "帰りたくなったよ",
+  "base_artist": "Ikimonogakari",
+  "createdAt": "2025-12-07T11:29:11.116862Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "帰りたくなったよ",
+      "artist": "Masayuki Suzuki",
+      "has_synced": false,
+      "path": "select/01_帰りたくなったよ_Masayuki_Suzuki.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "帰りたくなったよ (acoustic version)",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/02_帰りたくなったよ_(acoustic_version)_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "帰りたくなったよ",
+      "artist": "Marty Friedman",
+      "has_synced": false,
+      "path": "select/03_帰りたくなったよ_Marty_Friedman.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "帰りたくなったよ",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/04_帰りたくなったよ_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "帰りたくなったよ",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/05_帰りたくなったよ_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "帰りたくなったよ",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/06_帰りたくなったよ_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "帰りたくなったよ",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/07_帰りたくなったよ_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "帰りたくなったよ",
+      "artist": "鈴木雅之",
+      "has_synced": true,
+      "path": "select/08_帰りたくなったよ_鈴木雅之.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "帰りたくなったよ",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_01_帰りたくなったよ_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "帰りたくなったよ",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_02_帰りたくなったよ_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "帰りたくなったよ",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_03_帰りたくなったよ_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "帰りたくなったよ",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_04_帰りたくなったよ_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "帰りたくなったよ",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_05_帰りたくなったよ_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "帰りたくなったよ",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_06_帰りたくなったよ_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "帰りたくなったよ",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_07_帰りたくなったよ_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "帰りたくなったよ",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_08_帰りたくなったよ_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "帰りたくなったよ",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_09_帰りたくなったよ_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "帰りたくなったよ",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_10_帰りたくなったよ_いきものがかり.txt"
+    }
+  ]
+}
